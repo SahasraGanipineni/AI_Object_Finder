@@ -1,0 +1,32 @@
+body{
+    background-image: url('BackgroundImage.jpg');
+    background-size: 1700px 780px;
+    text-align: center;
+}
+
+.heading{
+    background-color: aqua;
+    width: 100%;
+    margin-top: 0px;
+    font-size: 35px;
+    color: black;
+}
+
+#note{
+    font-size: 15px;
+    color: black;
+}
+
+#object_input{
+    color: black;
+    width: 400px;
+    margin: 5px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+canvas{
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px white;
+}
